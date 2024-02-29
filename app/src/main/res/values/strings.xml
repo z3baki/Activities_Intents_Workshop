@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laboratory_Activites_Intents</string>
+    <string name="hint">Enter a message</string>
+    <string name="send">Send Message</string>
+
+    <string name="hintUpdate">Enter a new message</string>
+    <string name="sendUpdate">Send a  new Message</string>
+</resources>
